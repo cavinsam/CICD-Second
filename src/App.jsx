@@ -9,6 +9,8 @@ function App() {
   return (
     <>
       <h1>Hello CICD S112-Section</h1>
+      <h2>My name is Cavin Sam Patrick</h2>
+      
     </>
   )
 }
